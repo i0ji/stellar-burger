@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "type": "module",
   "homepage": "./",
-  "packageManager": "pnpm@10.29.1",
+  "packageManager": "pnpm@10.33.0",
   "scripts": {
     "dev": "vite",
     "test": "jest --coverage",
