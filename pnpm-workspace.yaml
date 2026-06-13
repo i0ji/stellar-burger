@@ -22,5 +22,6 @@ minimumReleaseAgeExclude:
   - uuid@13.0.1
   - qs@6.15.2
   - tmp@0.2.6
+  - cypress-vite@1.10.1
 overrides:
   qs@>=6.11.1 <=6.15.1: ^6.15.2
