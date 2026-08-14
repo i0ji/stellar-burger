@@ -175,3 +175,4 @@ Global project features:
 07.02.26: **b**:chore **v**:0.2.1: deps update;<br>
 13.06.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>
 15.07.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>
+14.08.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>

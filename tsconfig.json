@@ -21,36 +21,34 @@
     "noFallthroughCasesInSwitch": true,
 
     /* ------------------ Alias */
-    "baseUrl": "src",
     "paths": {
       /* ------ MAIN */
-      "src/*": ["./*"],
-      "store/*": ["store/*"],
-      "components/*": ["components/*"],
+      "store/*": ["./src/store/*"],
+      "components/*": ["./src/components/*"],
 
-      "common/*": ["components/common/*"],
+      "common/*": ["./src/components/common/*"],
 
       /* ------ MODAL */
-      "modal/*": ["components/Modal/*"],
+      "modal/*": ["./src/components/Modal/*"],
 
       /* ------ PAGES */
-      "pages/*": ["pages/*"],
-      "profile/*": ["pages/ProfilePage/*"],
-      "ingredients/*": ["pages/IngredientDetailsPage/*"],
-      "orders/*": ["pages/OrderDetailsPage/*"],
+      "pages/*": ["./src/pages/*"],
+      "profile/*": ["./src/pages/ProfilePage/*"],
+      "ingredients/*": ["./src/pages/IngredientDetailsPage/*"],
+      "orders/*": ["./src/pages/OrderDetailsPage/*"],
 
       /* ------ HOOK */
-      "hooks/*": ["services/hooks/*"],
+      "hooks/*": ["./src/services/hooks/*"],
 
       /* ------ STYLES/ASSETS */
-      "styles/*": ["styles/*"],
-      "images/*": ["images/*"],
+      "styles/*": ["./src/styles/*"],
+      "images/*": ["./src/images/*"],
 
       /* ------ UTILS/SERVICES */
-      "services/*": ["services/*"],
-      "utils/*": ["services/utils/*"],
-      "slices/*": ["services/slices/*"],
-      "declarations/*": ["services/declarations/*"]
+      "services/*": ["./src/services/*"],
+      "utils/*": ["./src/services/utils/*"],
+      "slices/*": ["./src/services/slices/*"],
+      "declarations/*": ["./src/services/declarations/*"]
     }
   },
   "include": ["src"],
