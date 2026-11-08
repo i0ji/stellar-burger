@@ -100,7 +100,7 @@ Global project features:
   Profile;<br>
   fix: "save/cancel" buttons
   style: appearance of icons on editing
-  chore: some minor edits in api.ts
+  build: some minor edits in api.ts
 </details>
 <h1>Fourth sprint</h1>
 <h3>07.03-14.03</h3>
@@ -141,13 +141,13 @@ Global project features:
       out from memoise; changed the file structure - corresponding files moved to services; IForm small edit; custom hook file
       and typing;<br>
       19.03.24: **b**:sprint5/step-1/**v**:0.1.9.5.3: typing; multiply type and interface changes; added navigation to '/'
-      after logout; chore; style edits;<br>
+      after logout; build; style edits;<br>
       20.03.24: **b**:sprint5/step-1/**v**:0.1.9.5.3: style edits;
       22.03.24: **b**:sprint5/step-1/**v**:0.1.9.5.5: style and type small edits; small constructor layout edits; added typed
       useSelector and useDispatch;<br>
       23.03.24: **b**:sprint5/step-1/**v**:0.1.9.5.5: style: add container markup mixin; multiply small edits; markup feed
       page; markup feed page; attempt to separate auxiliary functions into a separate file; multiply markup attempts;
-      chore; <br>
+      build; <br>
       24.03.24: **b**:sprint5/step-1/**v**:0.1.9.5.6: feed markup; multiply edits; replace <Modal> wrapper from App into
       Ingredients detail component; styling thumbnails; multiply style edits; Thumbnail props type;<br>
       25.03.24: **b**:sprint5/step-1/**v**:0.1.9.6.1: cascade attempts; thumbnails set; history markup; new routing setting;
@@ -168,11 +168,12 @@ Global project features:
 
 <h1>Maintenance </h1>
 
-08.09.25: **b**:chore **v**:0.1.9.6.7.3: deps, docs update;<br>
-08.09.25: **b**:chore **v**:0.1.9: deps update;<br>
-10.12.25: **b**:chore **v**:0.2.0: total interfaces & types refactor and fixing type issues in slices, reducers etc; rework logic and implementation, interfaces, types, slices, reducers; almost all components are modified<br>
-05.01.26: **b**:chore **v**:0.2.1: multiple deps update;<br>
-07.02.26: **b**:chore **v**:0.2.1: deps update;<br>
-13.06.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>
-15.07.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>
-14.08.26: **b**:chore **v**:0.2.1: deps update; vulnerabilities check;<br>
+08.09.25: **b**:build **v**:0.1.9.6.7.3: deps, docs update;<br>
+08.09.25: **b**:build **v**:0.1.9: deps update;<br>
+10.12.25: **b**:fix **v**:0.2.0: total interfaces & types refactor and fixing type issues in slices, reducers etc; rework logic and implementation, interfaces, types, slices, reducers; almost all components are modified<br>
+05.01.26: **b**:build **v**:0.2.1: multiple deps update;<br>
+07.02.26: **b**:build **v**:0.2.1: deps update;<br>
+13.06.26: **b**:build **v**:0.2.1: deps update; vulnerabilities check;<br>
+15.07.26: **b**:build **v**:0.2.1: deps update; vulnerabilities check;<br>
+14.08.26: **b**:build **v**:0.2.1: deps update; vulnerabilities check;<br>
+08.11.26: **b**:build **v**:0.2.1: deps update; vulnerabilities check;<br>
